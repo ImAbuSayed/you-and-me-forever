@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/you-and-me-forever/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For You And Me Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-and-me-forever/) |
+| **Get License** | [Official Music Licensing for You And Me Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-and-me-forever/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel your heartbeat in the dark
+> Just waiting for that sudden spark
+> So pull me closer, let it begin
+> And let me taste the mood you're in
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
