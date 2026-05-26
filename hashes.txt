@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - You And Me Forever
+
+This log tracks the cryptographic history and versioning for the song **You And Me Forever** (you-and-me-forever).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T15:39:57.443902 | `v1` | `650e0437b71c1e9afdbd892645b3b57927cbc6d7739e4af4014e41b3265ffd9e` | `e4bb63506cfdf8d53e2bf7f622d0c251cd4a6325fed7640e34438f7cf21caad6` | `2026-05-26_you-and-me-forever-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

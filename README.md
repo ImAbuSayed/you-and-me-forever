@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/you-and-me-forever/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for You And Me Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-and-me-forever/) |
+| **Get License** | [Obtain a Music License for You And Me Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-and-me-forever/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `650e0437b71c1e9afdbd892645b3b57927cbc6d7739e4af4014e41b3265ffd9e` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
